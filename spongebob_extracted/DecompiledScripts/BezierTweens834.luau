@@ -1,0 +1,1 @@
+return require(script.Parent._Index["max-bacon_bezier-tweens@1.2.1"]["bezier-tweens"]);

@@ -1,0 +1,1 @@
+return require(script.Parent.Parent["raild3x_baseobject@0.1.0"].baseobject);

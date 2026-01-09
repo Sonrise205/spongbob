@@ -1,0 +1,1 @@
+return require(script.Parent.Parent["raild3x_probabilitydistributor@1.0.6"].probabilitydistributor);

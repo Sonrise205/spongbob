@@ -1,0 +1,1 @@
+return require(script.Parent._Index["raild3x_netwire@0.3.4"].netwire);
