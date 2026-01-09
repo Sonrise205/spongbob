@@ -1,0 +1,1 @@
+return require(script.Parent.Parent["raild3x_netwire@0.2.1"].netwire);

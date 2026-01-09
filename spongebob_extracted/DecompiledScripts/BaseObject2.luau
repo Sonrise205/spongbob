@@ -1,0 +1,1 @@
+return require(script.Parent._Index["raild3x_baseobject@0.1.0"].baseobject);

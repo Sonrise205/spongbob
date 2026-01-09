@@ -1,0 +1,1 @@
+return require(script.Parent._Index["onlyroids_moonlite-rigs@0.1.5"]["moonlite-rigs"]);
